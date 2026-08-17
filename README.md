@@ -6,7 +6,7 @@ This is a script for Checkpoint that modifies your Shin Megami Tensei IV save fi
 
 Requires [Checkpoint 5.0.0 or greater](https://github.com/BernardoGiordano/Checkpoint).
 
-Tested on the first save file of the European version of the game. Use at your own risk, and don't forget to make a backup first. 
+Tested on the first save file of the European version of the game. **Use at your own risk, and don't forget to make a backup first**. 
 
 ## Instructions
 1) On your 3DS's SD card, create a folder inside `3ds/Checkpoint/scripts` with the TID of your version of the game. (For the European version, that would be `3ds/Checkpoint/scripts/0004000000141C00`).
